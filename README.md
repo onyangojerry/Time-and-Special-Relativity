@@ -1,4 +1,4 @@
-# Time-and-Special-Reletivity
+# Time-and-Special-Relativity
 
 ## A collection of Philosophy of time
 
